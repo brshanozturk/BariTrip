@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XZXY3VlknuqDeVjPC4dFcA4z2EBogGJNCzPg+2Kqo6VrR7jihxcUfnvWHjRCLcDziWOkysX/3TIVoQR60A80Bg==",
+  "dgSpecHash": "UVKFyq5rEoCjKouVdvLwCFFzXAq264OpFJjSjFjzIjka2slloxJmL7hDQvewaGDy2+CFZZbaMRj7p8aWVV4WeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTrip\\BarilTrip\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brsha\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\brsha\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\brsha\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\brsha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\brsha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\brsha\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

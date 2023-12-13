@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBtuoHXbPNfyk8sKGndYBDJpNdZqbSpq7/1WT77EU0noLjNwIKBuJpaUPm4jlLLJCVAXcHrxIZtTecCULekKLA==",
+  "dgSpecHash": "XBFVBh5iOHxkW7eaOKFo8bNzkVuJ38OtDVpBEwZSkZ6fQa1kyEv5iCgNEv9iF1vBSDrkHgOUERrgVY0pDLrtMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTrip\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
+  "projectFilePath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brsha\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\brsha\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",

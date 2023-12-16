@@ -10862,11 +10862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
+      "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
       "projectName": "BarilTrip",
-      "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
+      "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\BarilTrip\\BarilTrip.csproj",
       "packagesPath": "C:\\Users\\brsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BarilTrip\\obj\\",
+      "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\BarilTrip\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10883,14 +10883,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

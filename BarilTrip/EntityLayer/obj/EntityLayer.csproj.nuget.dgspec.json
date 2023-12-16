@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\brsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brsha\\AppData\\Roaming\\NuGet\\NuGet.Config",

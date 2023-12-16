@@ -1,4 +1,5 @@
 ﻿using EntityLayer.Concrate;
+using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -25,5 +26,10 @@ namespace DataAccessLayer.Concrete
         public DbSet<Newsletter> Newsletters { get; set; }
         public DbSet<SubAbout> SubAbouts { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+
+
+
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4x8Q9xKMwWAKpZ70/TP+VvjX9qw/mDJ2f3y0P/bsWRnRv1/y7BfxQaze9LL5Y7IK61XNLqdyaA8jnC1A+pwuhw==",
+  "dgSpecHash": "MOPtCWprSTmw0B4PENQIlkIbLKF9Odc6lhSzJlMiZH4VXx77aDxM51fb+l/gZbtc6PL6QcsZ48ECnUM66jZhEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\ÖNEMLİ\\BariTrip-main\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\qqq\\BarilTrip\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brsha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\brsha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

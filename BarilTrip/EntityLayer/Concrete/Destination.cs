@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EntityLayer.Concrete;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -22,6 +23,7 @@ namespace EntityLayer.Concrate
         public string Details1 { get; set; }  
         public string Details2 { get; set; }  
         public string Image2 { get; set;}
+         public List<Comment> Comments { get; set; }
 
 
 

@@ -1,6 +1,5 @@
 ﻿using DataAccessLayer.Abstract;
 using DataAccessLayer.Repository;
-using EntityLayer.Concrate;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -10,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EntityFramework
 {
-    public class EfCommentDal : GenericRepository<Comment>, ICommentDal
-    {
-    }
+	public class EfCommentDal : GenericRepository<Comment>, ICommentDal
+	{
+	}
 }

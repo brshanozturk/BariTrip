@@ -9,45 +9,46 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Repository
 {
-    public class GenericRepository<T> : IGenericDal<T> where T : class
-    {
-        public void Delete(T t)
-        {
-           using var c= new Context();
-            c.Remove(t);
-            c.SaveChanges();
-        }
+	public class GenericRepository<T>: IGenericDal<T> where T : class
+	{
+		public void Delete(T t)
+		{
+			using var c = new Context();
+			c.Remove(t);
+			c.SaveChanges();
+		}
 
-        public T GetByID(int id)
-        {
-           using var c = new Context();
+		public T GetByID(int id)
+		{
+			using var c = new Context();
 
-            return c.Set<T>().Find(id);
+			return c.Set<T>().Find(id);
 
-        }
+		}
 
-        public List<T> GetList()
-        {
-            using var c = new Context();
-            return c.Set<T>().ToList();     
-        }
+		public List<T> GetList()
+		{
+			using var c = new Context();
+			return c.Set<T>().ToList();
+		}
 
-        public List<T> GetListByFilter(Expression<Func<T, bool>> fitler)
-        {
-            using var c = new Context();
-            return c.Set<T>().Where(fitler).ToList();
-        }
+		public List<T> GetListByFilter(Expression<Func<T, bool>> fitler)
+		{
+			using var c = new Context();
+			return c.Set<T>().Where(fitler).ToList();
+		}
 
-        public void Insert(T t)
-        {
-            using var c = new Context();
-            c.Add(t);
-        }
+		public void Insert(T t)
+		{
+			using var c = new Context();
+			c.Add(t);
+			c.SaveChanges();
+		}
 
-        public void Update(T t)
-        {
-            using var c = new Context();
-            c.Update(t);
-        }
-    }
+		public void Update(T t)
+		{
+			using var c = new Context();
+			c.Update(t);
+		}
+	}
 }

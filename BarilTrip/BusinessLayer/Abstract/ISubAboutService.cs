@@ -1,4 +1,4 @@
-﻿using EntityLayer.Concrate;
+﻿using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
-    public interface ISubAboutService :IGenericService<SubAbout>
-    {
-    }
+	public interface ISubAboutService : IGenericService<SubAbout>
+	{
+	}
 }

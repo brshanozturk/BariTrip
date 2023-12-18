@@ -5,12 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EntityLayer.Concrate
+namespace EntityLayer.Concrete
 {
-    public class Newsletter
-    {
-        [Key]
-        public int NewsletterID { get; set; }
-        public string Mail { get; set; }
-    }
+	public class Newsletter
+	{
+		[Key]
+		public int NewsletterID { get; set; }
+		public string Mail { get; set; }
+	}
 }

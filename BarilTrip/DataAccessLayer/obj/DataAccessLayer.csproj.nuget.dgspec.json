@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\brsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -44,6 +44,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.12, )"
@@ -85,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\brsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\BarilTripp\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\brsha\\OneDrive\\Masaüstü\\PROJEMM ASIL\\BarilTripp\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,6 +129,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.12, )"

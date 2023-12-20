@@ -319,6 +319,10 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Comment\Index.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Profile\Index.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyApprovalReservation.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyCurrentReservation.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyOldReservation.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\NewReservation.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewImports.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
@@ -368,6 +372,3 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.pdb
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.genruntimeconfig.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\ref\BarilTripp.dll
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\NewReservation.cshtml.g.cs
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyCurrentReservation.cshtml.g.cs
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyOldReservation.cshtml.g.cs

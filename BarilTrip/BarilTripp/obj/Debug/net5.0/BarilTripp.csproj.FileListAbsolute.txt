@@ -174,6 +174,15 @@ C:\Users\brsha\OneDrive\Masaüstü\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\
 C:\Users\brsha\OneDrive\Masaüstü\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.csproj.AssemblyReference.cache
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.AssemblyInfoInputs.cache
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.AssemblyInfo.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.csproj.CoreCompileInputs.cache
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.RazorAssemblyInfo.cache
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.RazorAssemblyInfo.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\appsettings.json
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\BarilTripp.exe
@@ -304,19 +313,11 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\BusinessLayer.pdb
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\bin\Debug\net5.0\EntityLayer.pdb
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.csproj.AssemblyReference.cache
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.AssemblyInfoInputs.cache
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.AssemblyInfo.cs
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.csproj.CoreCompileInputs.cache
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.RazorAssemblyInfo.cache
-C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.RazorAssemblyInfo.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.TagHelpers.input.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.TagHelpers.output.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.RazorCoreGenerate.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Comment\Index.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Dashboard\Index.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Profile\Index.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\MyApprovalReservation.cshtml.g.cs
@@ -345,6 +346,7 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestination\Default.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProfileInformation\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
@@ -372,3 +374,7 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.pdb
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.genruntimeconfig.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\ref\BarilTripp.dll
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_GuideList\Default.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_PlatformSetting\Default.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Destination\Index.cshtml.g.cs

@@ -38,7 +38,7 @@ namespace BusinessLayer.Concrete
 			return _destinationDal.GetList();
 		}
 
-		public List<Destination>? TGetList()
+		public List<Destination> TGetList()
 		{
 			return _destinationDal.GetList();
 		}

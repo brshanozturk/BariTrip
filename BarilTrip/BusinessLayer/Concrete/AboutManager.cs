@@ -1,5 +1,6 @@
 ﻿using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -36,7 +37,12 @@ namespace BusinessLayer.Concrete
 			return _aboutDal.GetList();
 		}
 
-		public void TUpdate(About t)
+        public List<About> TGetList()
+        {
+            return _aboutDal.GetList();
+        }
+
+        public void TUpdate(About t)
 		{
 			_aboutDal.Update(t);
 		}

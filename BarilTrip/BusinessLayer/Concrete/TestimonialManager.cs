@@ -47,5 +47,10 @@ namespace BusinessLayer.Concrete
 		{
 			throw new NotImplementedException();
 		}
-	}
+
+        List<Testimonial> IGenericService<Testimonial>.TGetList()
+        {
+            return _testimonialDal.GetList();
+        }
+    }
 }

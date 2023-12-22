@@ -53,6 +53,11 @@ namespace BusinessLayer.Concrete
             throw new NotImplementedException();
         }
 
+        public List<Reservation> TGetList()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Reservation t)
         {
             throw new NotImplementedException();

@@ -47,5 +47,10 @@ namespace BusinessLayer.Concrete
 		{
 			throw new NotImplementedException();
 		}
-	}
+
+        List<Feature> IGenericService<Feature>.TGetList()
+        {
+            return _featureDal.GetList();
+        }
+    }
 }

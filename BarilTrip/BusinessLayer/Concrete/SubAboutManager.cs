@@ -1,5 +1,6 @@
 ﻿using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -47,5 +48,10 @@ namespace BusinessLayer.Concrete
 		{
 			throw new NotImplementedException();
 		}
-	}
+
+        List<SubAbout> IGenericService<SubAbout>.TGetList()
+        {
+            return _subAboutDal.GetList();
+        }
+    }
 }

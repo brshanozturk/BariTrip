@@ -27,6 +27,27 @@ using BarilTripp.Areas.Member.Models;
 #line hidden
 #nullable disable
 #nullable restore
+#line 4 "C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\Areas\Admin\Views\_ViewImports.cshtml"
+using DTOLayer.DTOs.AnnouncementDTOs;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\Areas\Admin\Views\_ViewImports.cshtml"
+using BarilTripp.Areas.Admin.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\Areas\Admin\Views\_ViewImports.cshtml"
+using BarilTripp.CQRS.Results.DestinationResults;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\Areas\Admin\Views\User\Index.cshtml"
 using EntityLayer.Concrete;
 
@@ -34,7 +55,7 @@ using EntityLayer.Concrete;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"f5678cbf02d59251982540a55bdcd95cb325e053a7ace9fc901d40466ac3d5e4", @"/Areas/Admin/Views/User/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"cdc5f10f49496f68f4bbb4c808a62caa2f16d8bc378149cc582a3f285e616698", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"e7a23828a381bc4ea0ce014cd825048f314e584c41f2eeb09e802b268a4b0d64", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Admin_Views_User_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<AppUser>>
     #nullable disable

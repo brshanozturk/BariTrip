@@ -1,10 +1,14 @@
+using BarilTripp.CQRS.Handlers.DestinationHandlers;
 using BarilTripp.Models;
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
 using BusinessLayer.Container;
+using BusinessLayer.ValidationRules;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
+using DTOLayer.DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
+using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -34,6 +38,8 @@ namespace BarilTripp
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
         {
+
+			services.AddScoped<GetAllDestinationQueryHandler>();
             services.AddLogging(x =>
             {
                 x.ClearProviders();
@@ -44,11 +50,14 @@ namespace BarilTripp
             services.AddDbContext<Context>();
 			services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
 
-			services.ContainerDependencies();
-            
-			
+			services.AddHttpClient();
 
-            services.AddControllersWithViews();
+			services.ContainerDependencies();
+
+            services.AddAutoMapper(typeof(Startup));
+			services.CustomerValidator();
+
+            services.AddControllersWithViews().AddFluentValidation();
 
 			services.AddMvc(config=>
 			{

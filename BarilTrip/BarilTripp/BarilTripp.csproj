@@ -5,11 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="ClosedXML" Version="0.102.1" />
     <PackageReference Include="EPPlus" Version="7.0.5" />
     <PackageReference Include="FluentValidation" Version="10.3.6" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.6" />
     <PackageReference Include="iTextSharp.LGPLv2.Core" Version="3.4.15" />
+    <PackageReference Include="MailKit" Version="4.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.39" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.12" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.12" />
@@ -34,8 +36,12 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Member\Data\" />
+    <Folder Include="CQRS\Commands\DestinationCommands\" />
+    <Folder Include="CQRS\Commands\GuideCommands\" />
+    <Folder Include="CQRS\Handlers\GuideHandlers\" />
+    <Folder Include="CQRS\Queries\GuideQueries\" />
+    <Folder Include="CQRS\Results\GuideResults\" />
     <Folder Include="wwwroot\pdfreports\" />
     <Folder Include="wwwroot\userimages\" />
   </ItemGroup>

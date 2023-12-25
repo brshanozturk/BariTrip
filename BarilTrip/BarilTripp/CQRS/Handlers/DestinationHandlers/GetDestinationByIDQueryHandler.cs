@@ -11,7 +11,9 @@ namespace BarilTripp.CQRS.Handlers.DestinationHandlers
         public GetDestinationByIDQueryHandler(Context context)
         {
             _context = context;
+
         }
+
         public GetDestinationByIDQueryResult Handle(GetDestinationByIDQuery query)
         {
             var values = _context.Destinations.Find(query.id);
@@ -20,8 +22,11 @@ namespace BarilTripp.CQRS.Handlers.DestinationHandlers
                 DestinationID = values.DestinationID,
                 City = values.City,
                 DayNight = values.DayNight,
-                Price = values.Price
+                 Price = values.Price
             };
         }
+
     }
+
+
 }

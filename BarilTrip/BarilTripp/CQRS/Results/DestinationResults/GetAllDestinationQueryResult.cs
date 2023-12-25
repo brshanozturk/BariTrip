@@ -2,7 +2,6 @@
 {
     public class GetAllDestinationQueryResult
     {
-
         public int id { get; set; }
         public string city { get; set; }
         public string daynight { get; set; }

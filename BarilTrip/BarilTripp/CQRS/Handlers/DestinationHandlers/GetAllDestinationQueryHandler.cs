@@ -1,15 +1,15 @@
-﻿using BarilTripp.CQRS.Results.DestinationResults;
+﻿using BarilTripp.CQRS.Queries.DestinationQueries;
+using BarilTripp.CQRS.Results.DestinationResults;
 using DataAccessLayer.Concrete;
+using DocumentFormat.OpenXml.Office2010.Excel;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection.Metadata;
 
 namespace BarilTripp.CQRS.Handlers.DestinationHandlers
 {
     public class GetAllDestinationQueryHandler
     {
-
         private readonly Context _context;
 
         public GetAllDestinationQueryHandler(Context context)
@@ -25,8 +25,10 @@ namespace BarilTripp.CQRS.Handlers.DestinationHandlers
                 city = x.City,
                 daynight = x.DayNight,
                 price = x.Price
+
             }).AsNoTracking().ToList();
             return values;
+
         }
     }
 }

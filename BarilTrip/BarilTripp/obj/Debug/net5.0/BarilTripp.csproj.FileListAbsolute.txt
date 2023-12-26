@@ -471,3 +471,9 @@ C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.pdb
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\BarilTripp.genruntimeconfig.cache
 C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\ref\BarilTripp.dll
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UserList.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\AssignRole.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\Components\_LastDestinations\Default.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Views\Shared\_MemberLayout.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Reservation\Deneme.cshtml.g.cs
+C:\Users\brsha\OneDrive\Masaüstü\PROJEMM ASIL\BarilTripp\BarilTripp\obj\Debug\net5.0\Razor\Areas\Member\Views\Dashboard\MemberDashboard.cshtml.g.cs

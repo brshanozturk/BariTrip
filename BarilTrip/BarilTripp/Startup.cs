@@ -55,9 +55,9 @@ namespace BarilTripp
             });
 
             services.AddDbContext<Context>();
-			services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
+            services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddTokenProvider<DataProtectorTokenProvider<AppUser>>(TokenOptions.DefaultProvider).AddEntityFrameworkStores<Context>();
 
-			services.AddHttpClient();
+            services.AddHttpClient();
 
 			services.ContainerDependencies();
 
@@ -73,7 +73,19 @@ namespace BarilTripp
 			});
 			services.AddMvc();
 
-		}
+            services.AddLocalization(opt =>
+            {
+                opt.ResourcesPath = "Resources";
+            });
+
+            services.AddMvc().AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix).AddDataAnnotationsLocalization();
+
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = "/Login/SignIn/";
+            });
+        }
+		  
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
 		public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory )
@@ -100,8 +112,11 @@ namespace BarilTripp
 			app.UseRouting();
 
 			app.UseAuthorization();
+            var suppertedCultures = new[] { "en", "fr", "es", "gr", "tr", "de" };
+            var localizationOptions = new RequestLocalizationOptions().SetDefaultCulture(suppertedCultures[1]).AddSupportedCultures(suppertedCultures).AddSupportedUICultures(suppertedCultures);
+            app.UseRequestLocalization(localizationOptions);
 
-			app.UseEndpoints(endpoints =>
+            app.UseEndpoints(endpoints =>
 			{
 				endpoints.MapControllerRoute(
 					name: "default",

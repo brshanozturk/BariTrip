@@ -327,6 +327,23 @@
         "runtime": {
           "BarilTripp.dll": {}
         },
+        "resources": {
+          "de/BarilTripp.resources.dll": {
+            "locale": "de"
+          },
+          "en/BarilTripp.resources.dll": {
+            "locale": "en"
+          },
+          "es/BarilTripp.resources.dll": {
+            "locale": "es"
+          },
+          "fr/BarilTripp.resources.dll": {
+            "locale": "fr"
+          },
+          "tr/BarilTripp.resources.dll": {
+            "locale": "tr"
+          }
+        },
         "compile": {
           "BarilTripp.dll": {}
         }
